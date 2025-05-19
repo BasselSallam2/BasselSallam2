@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Bassel Sallam
 
-<!--
-**BasselSallam2/BasselSallam2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 A backend developer specialized in building efficient and scalable systems using **Node.js**.  
+🛠️ Experienced with REST APIs, Docker, Prisma, Swagger, Postman, and SQL/NoSQL databases.
 
-Here are some ideas to get you started:
+### 📌 Pinned Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Tech Stack
+- **Languages:** JavaScript (Node.js), SQL , c/c++ 
+- **Frameworks:** Express.jS
+- **Tools:** Docker, Swagger, Postman, Git, GitHub
+- **Databases:** PostgreSQL, MongoDB
+
+
