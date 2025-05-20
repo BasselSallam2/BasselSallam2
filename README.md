@@ -10,6 +10,14 @@ A complete intercity trip booking system in Egypt with live seat selection, Paym
 🔗 [Live Website](https://swiftbusegypt.com)
 ---
 
+### 🧠 [GenioAI](https://github.com/BasselSallam2/GenioAI)
+An AI-powered platform for chat & image generation with role-based plans.
+
+🔗 [Live App](https://app.genio.ae)  
+📄 [API Docs](https://back-end-api.genio.ae/doc/)
+
+---
+
 ### 🔧 Tech Stack
 - **Languages:** JavaScript (Node.js), SQL , c/c++ 
 - **Frameworks:** Express.jS
